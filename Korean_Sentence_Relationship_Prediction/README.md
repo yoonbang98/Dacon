@@ -10,6 +10,7 @@
 **1. 전처리**
 * 정규표현식을 통한 특수문자 전처리
 * Papago의 번역을 이용해 한국어 > 영어 > 한국어로 변환하여 augmentation
+  
 **2. 모델링 & 앙상블**
 * KLUE-roberta, Koelectra의 사전학습 모델 사용
 * Automodel을 이용해 모델 생성 > 사전학습 적용
